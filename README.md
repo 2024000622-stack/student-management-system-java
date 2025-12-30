@@ -22,6 +22,6 @@ Technologies Used
    javac ATM.java ATMApp.java         
 2. Run: 
    java ATMApp
-  
+    
 Your Name :   
 Suyog chore   
